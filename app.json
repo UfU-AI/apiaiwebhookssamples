@@ -1,6 +1,6 @@
 {
-  "name": "Api.ai Webhook Samples",
-  "description": "Api.ai Webhook Samples",
+  "name": "UfU-AI Webhook ",
+  "description": "UfU-AI Webhook",
   "repository": "https://github.com/sandeepparekh/apiaiwebhookssamples",
   "logo": "https://node-js-sample.herokuapp.com/node.png",
   "keywords": ["node", "express", "api.ai"]
